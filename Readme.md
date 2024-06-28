@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silentsmile29&repo=HAZEL_MUSIC-X-BOT&theme=flag-india)
 
 [![GIF](https://github.com/Silentsmile29/HAZEL_MUSIC-X-BOT/blob/main/Silentsmile29.gif)](https://github.com/Silentsmile29)
-   [!𝐻𝑎𝑧𝑒𝑙 𝑀𝑢𝑠𝑖𝑐 ](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
+   [![ 𝐻𝑎𝑧𝑒𝑙 𝑀𝑢𝑠𝑖𝑐 ](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
 
 
 <p align="center">
